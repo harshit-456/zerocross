@@ -5,3 +5,5 @@ Developed an unbeatable tic-tac-toe game created with the minimax algorithm.
 - `JavaScript`
 - `HTML`
 - `CSS`
+## Check It Out
+You can play this game here: [Unbeatable Tic Tac Toe]https://harshit-456.github.io/zerocross/
