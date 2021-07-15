@@ -1,4 +1,4 @@
-# Unbeatable-Tic-Tac-Toe
+# Tic-Tac-Toe driven by AI
 Developed an unbeatable tic-tac-toe game created with the minimax algorithm.
 
 ## Technologies Used
